@@ -1,3 +1,4 @@
+<img width="25%" height="25%" alt="badgeAlurastore" src="https://github.com/user-attachments/assets/e450b561-6093-4711-bd21-0ff7bd0d4260" /><br>
 # Challenge Alura Store
 Challenge feito para prática no curso de Ciência de Dados na plataforma da Alura. Tem como objetivo realizar uma análise de dados de 4 diferentes lojas de um mesmo dono e ao final redigir um relatório explicando qual deverá ser vendida e porque.<br>
 O projeto foi feito utilizando as bibliotecas: 
