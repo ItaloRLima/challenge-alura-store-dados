@@ -7,6 +7,14 @@ O projeto foi feito utilizando as bibliotecas:
   
 Através dessas bibliotecas fui capaz de fazer a análise dos dados e demonstrar os resultados através de gráficos bem apresentados.<br>
 
+## Instruções de execução do código
+1. Baixe o arquivo [AluraStoreBrasil](https://github.com/ItaloRLima/challenge-alura-store-dados/blob/main/AluraStoreBrasil.ipynb), ele virá na extensão .ipynb
+2. Entre no site do [Google Colab](https://colab.google)
+3. Acesse a opção Open Colab, no canto superior direito.
+4. Vá para a opção "Upload" e arraste o arquivo para la.<br>
+   <img width="50%" height="30%" alt="Captura de tela 2026-01-09 150140" src="https://github.com/user-attachments/assets/3d6898dc-0258-43e4-b0d8-cca8281ed234" />
+
+
 ## Conteúdo
 ### Extração dos dados
 Para iniciar a análise dos dados foi necessário realizar a extração e transformação de dados em .csv para um dataframe. Para isso utilizamos a biblioteca Pandas.
